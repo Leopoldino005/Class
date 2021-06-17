@@ -1,2 +1,2 @@
 # Class
-#### 📜  Esse é repositório contém uma simulação de Banco de Dados, feito 100% em Python. 
+#### 📜  Esse repositório contém um código que simula a ação de um Banco de Dados, feito 100% em Python. 
